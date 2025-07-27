@@ -1,0 +1,1 @@
+// Generation failed for /src/types/index.ts. Check console.
