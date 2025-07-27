@@ -1,0 +1,1 @@
+// Generation failed for /src/App.tsx. Check console.
